@@ -1,6 +1,6 @@
 //Cria personagens.
 const player1 = {
-    NOME: "Gabrielly",
+    NOME: "Mario",
     VELOCIDADE: 4,
     MANOBRABILIDADE: 3,
     PODER: 3,
@@ -8,7 +8,7 @@ const player1 = {
 };
 
 const player2 = {
-    NOME: "Leticia",
+    NOME: "Luigi",
     VELOCIDADE: 3,
     MANOBRABILIDADE: 4,
     PODER: 4,
@@ -16,7 +16,7 @@ const player2 = {
 };
 
 const player3 = {
-    NOME: "Alexandre",
+    NOME: "Bowser",
     VELOCIDADE: 5,
     MANOBRABILIDADE: 2,
     PODER: 5,
@@ -24,7 +24,7 @@ const player3 = {
 };
 
 const player4 = {
-    NOME: "Jozias",
+    NOME: "Peach",
     VELOCIDADE: 3,
     MANOBRABILIDADE: 4,
     PODER: 2,
@@ -32,7 +32,7 @@ const player4 = {
 };
 
 const player5 = {
-    NOME: "Kaua",
+    NOME: "Yoshi",
     VELOCIDADE: 2,
     MANOBRABILIDADE: 4,
     PODER: 3,
@@ -40,7 +40,7 @@ const player5 = {
 };
 
 const player6 = {
-    NOME: "Jhoy",
+    NOME: "Donkey Kong",
     VELOCIDADE: 2,
     MANOBRABILIDADE: 2,
     PODER: 5,
